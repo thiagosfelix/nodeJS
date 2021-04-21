@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosfelix/nodeJS.git"
+  },
+  "author": "Thiago Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosfelix/nodeJS/issues"
+  },
+  "homepage": "https://github.com/thiagosfelix/nodeJS#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
